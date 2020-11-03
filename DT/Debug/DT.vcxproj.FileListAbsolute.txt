@@ -1,1 +1,3 @@
 C:\Users\Andrew Wells\Desktop\DT\DT\DT\Debug\DT.vcxprojAssemblyReference.cache
+C:\Users\Andrew Wells\Desktop\DT\DT\DT\Debug\DT.MyForm.resources
+C:\Users\Andrew Wells\Desktop\DT\DT\DT\Debug\DT.vcxproj.GenerateResource.cache
