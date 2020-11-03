@@ -133,7 +133,7 @@ namespace DT {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(343, 55);
+			this->button2->Location = System::Drawing::Point(645, 296);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(75, 23);
 			this->button2->TabIndex = 6;
